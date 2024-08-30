@@ -1,0 +1,8 @@
+services:
+  good_advice_backed:
+      build: ./
+      command: sh -c ". .venv/bin/activate && python -m good_advice_backend"
+
+  good_advice_backed_test:
+    build: ./
+    command: sh -c ". .venv/bin/activate && pytest -x"
