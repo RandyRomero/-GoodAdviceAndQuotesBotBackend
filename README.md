@@ -1,2 +1,2 @@
-# -GoodAdviceAndQuotesBotBackend
-Backend for the  GoodAdviceAndQuotes Telegram bot
+# GoodAdviceAndQuotesBotBackend
+Backend for the GoodAdviceAndQuotes Telegram bot
